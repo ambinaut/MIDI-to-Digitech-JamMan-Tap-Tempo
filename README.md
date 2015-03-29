@@ -4,3 +4,5 @@ This sketch listens to incoming midi clock messages on port RX and pulses output
 i.e. every 24th clock tick
 
 Written for Attiny85 but can be modified for other Atmega, Attiny MCU's
+
+Blog link: http://ambinaut.wordpress.com/2014/07/14/digitech-jamman-stereo-midi-sync/
